@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-A classic Tic Tac Toe game app for iOS devices using Swift 4 and Xcode 9. Created for learning purpose.
+A classic Tic Tac Toe game app for iPhone X using Swift 4 and Xcode 9. Created for learning purpose.
 
 ![alt text](https://github.com/prateekguptaiiitk/Tic-Tac-Toe/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20Game/screenshots/tic_tac_toe.png)
 
